@@ -1,18 +1,21 @@
 .contentbox{
-    height: 100px;
-    width: 100px;
+    height: 30px;
+    width: 10px;
      border:2px solid black;
-     display: inline-block;
-     background-color: rgb(2px, 4px, 4px, 0.4px);
+     display:inline-block;
+     background-color: rgb(83, 11, 45);
+     margin:30px;
+     padding:50px;
 }
 #navbar{
     background-color: black;
-    padding: 0px;
-    margin: 0px;
+    padding: 10px;
+    margin: 5px;
 }
 #logo{
     background-color:chartreuse;
     margin:50px;
+    display: inline;
 
 
 }
