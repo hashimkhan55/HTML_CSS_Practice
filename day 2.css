@@ -1,0 +1,56 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#navbar{
+   background-color:black;
+   height: 50px;
+}
+a{
+  margin-right:200px;   
+}
+#logo{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    margin:20px 50px; 
+    height:20px;
+    padding-top: 20%;
+}
+.selection_heading{
+    padding:20px;
+    margin: 40p;
+    width:30px;
+    height:40px;
+    border-radius: 50px;
+    background-color:brown;
+    width: 30px;
+    
+}
+button{
+    background-color:#ff8804;
+
+
+}
+#class{
+    padding:20px 40px 30px 20px;
+    margin: 40px 20px 47px 67px;
+    width:30px;
+    height:40px;
+    border-radius: 50px;
+    background-color:#ff8804;
+    width: 30px;
+       
+}
+#room{
+     padding:20px 40px 30px 20px;
+    margin: 40px 20px 47px 67px;
+    width:30px;
+    height:40px;
+    border-radius: 50px;
+    background-color:brown;
+    width: 30px;
+    
+}
+
+

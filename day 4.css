@@ -1,0 +1,23 @@
+.contentbox{
+    height: 100px;
+    width: 100px;
+     border:2px solid black;
+     display: inline-block;
+     background-color: rgb(2px, 4px, 4px, 0.4px);
+}
+#navbar{
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+}
+#logo{
+    background-color:chartreuse;
+    margin:50px;
+
+
+}
+.selection_header{
+    margin: 20px;
+    padding: 10px;
+   
+}
